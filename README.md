@@ -1,3 +1,3 @@
-# Terminome_sequencing
+# Terminome_Seq
 
-This is a repository containing data and materials linked to the Terminome Sequencing project
+This repository contains data and materials linked to the Terminome-Seq project
