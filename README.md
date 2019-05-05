@@ -8,4 +8,4 @@ The bash scripts used to extract 5' and 3' ends and their abundance are run_find
 
 Supplementary_Table_S1.xlsx is the Terminome-Seq normalized coverage in Arabidopsis thaliana WT and pnp1-1 chloroplasts.
 
-The preprint of the manuscript can be found here https://www.biorxiv.org/content/10.1101/621938v1 
+The preprint of the manuscript can be found here https://www.biorxiv.org/content/10.1101/621938v1 or you can download here the file 2019_Terminome-Seq.pdf
