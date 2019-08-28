@@ -1,4 +1,4 @@
-# Terminome_Seq
+# Terminome-Seq
 
 This repository contains data and materials linked to the Terminome-Seq project
 
