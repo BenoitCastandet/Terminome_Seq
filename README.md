@@ -2,7 +2,7 @@
 
 This repository contains data and materials linked to the Terminome-Seq project
 
-The preprint of the manuscript is 2019_Terminome-Seq.pdf or it can be downloaded from the Bioarxiv website here https://www.biorxiv.org/content/10.1101/621938v1  
+The preprint of the manuscript is 2019_Terminome-Seq.pdf or it can be downloaded from the Bioarxiv website here https://www.biorxiv.org/content/10.1101/621938v2  
 
 
 Details about the library preparation protocol are in the Terminome-Seq_extra_methods_github.pdf file
